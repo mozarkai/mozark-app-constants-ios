@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "MozarkEventConstants"
-  spec.version      = "1.5.21"
+  spec.version      = "1.0"
   spec.summary      = "A short description of MozarkEventConstants."
   spec.swift_version	 = '5.0'
   spec.description  =  "MozarkEventConstants used to store constants"
@@ -69,7 +69,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-   spec.source       = { :git => "https://github.com/mohamed-ali-belhadj/eventsConstants.git",:tag => spec.version.to_s}
+   spec.source       = { :git => "https://github.com/mozarkai/mozark-app-constants-ios.git",:tag => spec.version.to_s}
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
