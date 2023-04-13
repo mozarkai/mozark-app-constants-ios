@@ -18,6 +18,8 @@ public struct EventConstants {
     public  let clickOnIndoorButton: String = "clickOnIndoorButton"
     public  let resultsAppear: String = "resultsAppear"
     public  let appClosed: String = "appClosed"
+    public  let appInBackground: String = "appInBackground"
+
 
 }
 public struct JourneyConstants {
